@@ -1,0 +1,11 @@
+{
+  "version": "0.3.0-beta.2",
+  "notes": "Mise à jour automatique du desktop : vérification au démarrage, installation\nvolontaire, archive signée et vérifiée avant écriture.\n\nL'installation est refusée tant qu'un travail de production est en cours.\nL'ADN des univers est désormais éditable depuis le Studio.",
+  "pub_date": "2026-09-06T08:41:05.960Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "url": "https://github.com/romuhica73/rvp-releases/releases/download/v0.3.0-beta.2/Rondienza.Visual.Production.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSEhnNW0yOTlRRG5OMldEZmo2cFIxZUl5RVVFSTd6V3ozdVV6UEtscDVDemFIaUR4TktNN24yUlhIajhQWlZKYzhZR2xIblIyV2JzcWZqeDhnN29pRFpuUnIvemtyc0FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NjgzNzc1CWZpbGU6Um9uZGllbnphIFZpc3VhbCBQcm9kdWN0aW9uLmFwcC50YXIuZ3oKTG4vQkFzdHZjekIvaTdrN2toYzRuOGVqbkxmeGtoeXZWYjQ4ZVQzSkU4OThSQTNaek0rKzBrWjVZMDNnU3dlSUVuMGhwR0xkb3QxQXpnRXlpVmVpQnc9PQo="
+    }
+  }
+}
