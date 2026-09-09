@@ -1,11 +1,11 @@
 {
-  "version": "0.3.0-beta.3",
-  "notes": "Rondienza Visual Production v0.3.0-beta.3\n\nNouveautés principales :\n- galerie d’images d’univers améliorée ;\n- image principale sans réimport ;\n- archivage logique des images ;\n- meilleure traçabilité Rondienza ;\n- corrections ADN et export.\n\nMise à jour automatique depuis v0.3.0-beta.2.",
-  "pub_date": "2026-09-09T08:21:47.572Z",
+  "version": "0.3.1-beta.1",
+  "notes": "Rondienza Visual Production v0.3.1-beta.1\n\n- fenêtre de mise à jour corrigée ;\n- boutons toujours visibles ;\n- notes longues désormais scrollables.",
+  "pub_date": "2026-09-09T09:33:51.145Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/romuhica73/rvp-releases/releases/download/v0.3.0-beta.3/Rondienza.Visual.Production.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSEhnNW0yOTlRRGtBUFpYYnZpMzYwM2tUeGNZS3BkZGc1cVJENmc4TDRtb3Z1MDRWWlB1RzlzK3J3MmE2WHJsUzdHczZGMHN0bS93elFITDRXYmQrSzhyUE0rdHJXUVFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4OTM5ODc3CWZpbGU6Um9uZGllbnphIFZpc3VhbCBQcm9kdWN0aW9uLmFwcC50YXIuZ3oKRk9VU241WlpSTTN3bHlWZkxaanpTdzVCc05NQTlxdzNuT1RvMnZrT211UG9aU3kzelhFNmZHL3J6a2MyVjdjblNGUm50anpoK3dzd05vckFKSlh5Q0E9PQo="
+      "url": "https://github.com/romuhica73/rvp-releases/releases/download/v0.3.1-beta.1/Rondienza.Visual.Production.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSEhnNW0yOTlRRHZLdHZPbmcrZUZXemlDei82NFpHa0RqKzY4RUxrVnFHYWN1MmR5dHM4NXNlT2lhd0xHTXpCTFk5OTAwbG1xR1B2RTd5NXdsWjVScUlFWGpWOUo2eVFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4OTQ1OTMyCWZpbGU6Um9uZGllbnphIFZpc3VhbCBQcm9kdWN0aW9uLmFwcC50YXIuZ3oKQzV1MGZITkxXUm9aK05pb1Q4OWUxWFpCaHk0d0poOG1oc0RGWkplbjBQdVlzRjIxS2hBNllpNFlMYVpueVZhMTc2NmttUHVSNUFWNUhXUS9wejhmQmc9PQo="
     }
   }
 }
