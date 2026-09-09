@@ -1,11 +1,11 @@
 {
-  "version": "0.3.2-beta.1",
-  "notes": "Rondienza Visual Production v0.3.2-beta.1\n\n- navigation latérale persistante ;\n- nouvel éditeur ADN canonique ;\n- modale de mise à jour corrigée.",
-  "pub_date": "2026-09-09T13:13:52.699Z",
+  "version": "0.3.3-beta.1",
+  "notes": "Rondienza Visual Production v0.3.3-beta.1\n\n- top bar restaurée ;\n- navigation latérale supplémentaire supprimée ;\n- éditeur ADN canonique conservé ;\n- modale de mise à jour corrigée.",
+  "pub_date": "2026-09-09T15:54:12.383Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/romuhica73/rvp-releases/releases/download/v0.3.2-beta.1/Rondienza.Visual.Production.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSEhnNW0yOTlRRG4zT0thZmQ1ajBuV3BqT0JQZ2E5U212RmhvWWVMSGdDRmhjZWFRSnV3ZEFxTHJkZHA3bmphVEJDQi9pODV1eVAvazY3Y2VaU2w4ZXg2NXdNaHdPd3c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4OTU4ODgwCWZpbGU6Um9uZGllbnphIFZpc3VhbCBQcm9kdWN0aW9uLmFwcC50YXIuZ3oKS3BtVzdmK1NVWXVkMVZLM1dMN05TTlZBY3pTcGtoNytRY0hoRkhQeEczdnBFWFYxTzMrTTFZNGo2ZHFtT2dCSEVrcjlVYlk2blJ2d1VuSjdxS0V6QXc9PQo="
+      "url": "https://github.com/romuhica73/rvp-releases/releases/download/v0.3.3-beta.1/Rondienza.Visual.Production.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSEhnNW0yOTlRRG1ZOWhUeENzREJIL3VNTmRBVDg1N3k0VEhpVU14aTB1QmhkblFLNUVheUpDanZYa0RSTjRLVEJoejc3QnBnTGlNR3FuMjhFcmprZkg2dk83V3JXMWdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4OTY4MDA5CWZpbGU6Um9uZGllbnphIFZpc3VhbCBQcm9kdWN0aW9uLmFwcC50YXIuZ3oKOGdIQUNnTzZJeHdzTFF3U2VQc3FyNVJRRlo3SUszVVdqaFdkV0h1ZEs4dy82QW9ZNVdDK2IwZUhIcmd4Qlh2YVd0RjBLTDJZOTBqMkhFOXd2TFN1QWc9PQo="
     }
   }
 }
